@@ -4,6 +4,7 @@ This code visualizes neural pattern correlation matrices alongside a video stimu
 It allows the examination of specific scenes as they are divided by the brain (data-driven division).
 
 🧠 Features
+
 Loads a full movie (e.g., .mp4) and a precomputed correlation matrix (e.g., .mat).
 
 Averages frames over specified time bins (default: 2.01 seconds).
@@ -23,6 +24,7 @@ Interactive slider to explore time bins manually.
 Progress and navigation messages printed to the MATLAB Command Window.
 
 📂 Inputs
+
 Movie file: Any standard format (e.g., .mp4), readable via VideoReader.
 
 Neural activity: a 2D matrix of neural activity with dimensions: [voxels × TRs].
