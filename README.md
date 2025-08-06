@@ -30,7 +30,7 @@ Progress and navigation messages printed to the MATLAB Command Window.
 
 Movie file: Any standard format (e.g., .mp4), readable via VideoReader.
 
-Neural activity: a 2D matrix of neural activity with dimensions: [voxels × TRs].
+Neural activity: a 2D matrix of neural activity with dimensions: [voxels × TRs]. (csv/ mat file).
 
 
 ## Running the code:
